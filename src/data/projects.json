@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food Delivery",
+    "imageSrc": "projects/image.png",
+    "description": "Implemented intuitive navigation, responsive design, and fast loading times, augmented by engaging shimmer effects for seamless browsing.",
+    "skills": ["React", "CSS","json", "Strapi"],
+    "live": "https://yadavfoods.vercel.app/",
+    "code": "https://www.github.com"
+  },
+  {
+    "title": "Real Estate Website",
+    "imageSrc": "projects/estate.png",
+    "description": "A responsive Real Estate website featuring dynamic property listings, advanced search filters, inquiry forms, and an admin panel for easy management, delivering a seamless user experience across all devices.",
+    "skills": ["React.js", "Tailwind css.IO", "WebRTC"],
+    "live": "https://real-estates-sepia.vercel.app/",
+    "code": "https://www.github.com"
+  },
+  {
+    "title": "Naz Cryptocoin",
+    "imageSrc": "projects/nazcoin.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "CSS", "Javascript", "Flask", "SQL", "SHA256"],
+    "live": "https://www.github.com",
+    "code": "https://www.github.com"
+  }
+]
