@@ -16,7 +16,7 @@ const Hero = () => {
                     <a href="mailto:pintuyadav4071@gmail.com" className={styles.contactBtn}>
                         Contact Me
                     </a>
-                    <a href="https://drive.google.com/file/d/1zunN0iWlgr3rpP22M-8vHrrP1bCZrhBi/view?usp=drive_link" target="_blank" className={styles.contactBtn}>
+                    <a href="https://drive.google.com/file/d/1Y5tweX8E6dq8vp0RLU1SOwGvBpNJHh0_/view?usp=drive_link" target="_blank" className={styles.contactBtn}>
                         Download CV
                     </a>
                 </div>
